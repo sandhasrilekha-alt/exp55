@@ -1,4 +1,4 @@
-public class Main {
+public class Addition {
     public static void main(String[] args) {
         // Declare and initialize two variables
         int num1 = 10;
